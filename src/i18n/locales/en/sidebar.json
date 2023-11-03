@@ -1,0 +1,112 @@
+{
+  "dasbor": {
+    "title": "Dasboard",
+    "dasbor": "Dashboard",
+    "persediaan-barang": "Inventory",
+    "penjualan": "Selling",
+    "perawatan-hewan": "Grooming",
+    "hutang": "Debt",
+    "piutang": "Credit",
+    "penuaan": "Aging"
+  },
+  "katalog": {
+    "title": "Catalog",
+    "produk": "Product",
+    "paket": "Package"
+  },
+  "pemasaran": {
+    "title": "Marketing",
+    "vocer": "Voucher"
+  },
+  "persediaan-barang": {
+    "title": "Inventory",
+    "penyesuaian": {
+      "title": "Adjustment",
+      "masuk": "In",
+      "keluar": "Out"
+    },
+    "transfer": "Transfer"
+  },
+  "pembelian": {
+    "title": "Purchase",
+    "pesanan": "Order",
+    "penerimaan": "Receipt",
+    "faktur": "Invoice",
+    "faktur-langsung": "Direct Invoice",
+    "pengembalian": "Return",
+    "deposit": "Deposit",
+    "pembayaran": "Payment"
+  },
+  "pembelian-konsinyasi": {
+    "title": "Consignment Purchase",
+    "pesanan": "Order",
+    "penerimaan": "Receipt",
+    "faktur": "Invoice",
+    "pengembalian": "Return",
+    "deposit": "Deposit",
+    "pembayaran": "Payment"
+  },
+  "penjualan": {
+    "title": "Selling",
+    "pesanan": "Order",
+    "pengiriman": "Delivery",
+    "faktur": "Invoice",
+    "faktur-langsung": "Direct Invoice",
+    "pengembalian": "Return",
+    "deposit": "Deposit",
+    "pembayaran": "Payment",
+    "kontrak": "Contract"
+  },
+  "penjualan-kasir": {
+    "title": "Cashier Sales",
+    "kasir": "Cashier",
+    "penjualan": "Sales",
+    "pembatalan": "Cancellation",
+    "pengambilan-kas": "Cashier Return",
+    "kas": {
+      "title": "Cash",
+      "masuk": "Cash In",
+      "keluar": "Cash Out"
+    }
+  },
+  "perawatan-hewan": {
+    "title": "Grooming",
+    "faktur": "Invoice",
+    "pembayaran": "Payment",
+    "isi-ulang": "Top Up",
+    "pengembalian-dana": "Refund",
+    "permintaan-pelanggan": "Request Customer",
+    "keluhan-pelanggan": "Complain Customer"
+  },
+  "biaya-operasional": {
+    "title": "Operating Costs",
+    "biaya-operasional": "Operating Costs",
+    "pengembalian": "Return",
+    "pembayaran": "Payment",
+    "klaim-operasional": "Operational Claims",
+    "kerusakan-alat": "Equipment Damage"
+  },
+  "akunting": {
+    "title": "Accounting",
+    "tunai-bank": "Cash & Bank",
+    "memo": "Memo",
+    "penundaan": "Defferal",
+    "berulang": "Recurring",
+    "kasbon": "Cash Receipt"
+  },
+  "aset-tetap": {
+    "title": "Fixed Asset",
+    "faktur": "Invoice",
+    "pembayaran": "Payment",
+    "penyesuaian": {
+      "title": "Adjustment",
+      "masuk": "In",
+      "keluar": "Out"
+    }
+  },
+  "sumber-daya-manusia": {
+    "title": "Human Resource",
+    "izin": "Leave",
+    "absensi": "Absent"
+  }
+}

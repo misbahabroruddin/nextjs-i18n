@@ -1,0 +1,210 @@
+{
+  "dasbor": {
+    "title": "Dasbor",
+    "dasbor": "Dasbor",
+    "persediaan-barang": "Persediaan Barang",
+    "penjualan": "Penjualan",
+    "perawatan-hewan": "Perawatan Hewan",
+    "hutang": "Hutang",
+    "piutang": "Piutang",
+    "penuaan": "Penuaan"
+  },
+  "master": {
+    "title": "Master",
+    "kode-transaksi": {
+      "title": "Kode Transaksi",
+      "grup": "Grup",
+      "kode": "Kode"
+    },
+    "bank": {
+      "title": "Bank",
+      "bank": "Bank",
+      "mata-uang": "Mata Uang",
+      "jangka-waktu-pembayaran": "Jangka Waktu Pembayaran"
+    },
+    "pelanggan": {
+      "title": "Pelanggan",
+      "pelanggan": "Pelanggan",
+      "grup": "Grup",
+      "outlet": "Outlet"
+    },
+    "pemasok": {
+      "title": "Pemasok",
+      "pemasok": "Pemasok",
+      "grup": "Grup",
+      "merek": "Merek"
+    },
+    "produk": {
+      "title": "Produk",
+      "tipe": "Tipe",
+      "grup": "Grup",
+      "variasi": "Variasi",
+      "satuan": {
+        "title": "Satuan",
+        "jenis-satuan": "Jenis Satuan",
+        "satuan": "Satuan"
+      },
+      "etalase": "Etalase",
+      "gudang": "Gudang",
+      "jenis-peliharaan": "Jenis Peliharaan",
+      "ras-peliharaan": "Ras Peliharaan"
+    },
+    "kasir": {
+      "title": "Kasir",
+      "metode-pembayaran": "Metode Pembayaran"
+    },
+    "pengiriman": {
+      "title": "Pengiriman",
+      "jenis-pengiriman": "Jenis Pengiriman",
+      "pengiriman": "Pengiriman",
+      "batas-administratif": {
+        "title": "Batas Administratif",
+        "negara": "Negara",
+        "provinsi": "Provinsi",
+        "kota": "Kota",
+        "kabupaten": "Kabupaten",
+        "kecamatan": "Kecamatan"
+      }
+    },
+    "staf": {
+      "title": "Staf",
+      "staf": "Staf",
+      "departemen": "Departemen",
+      "groomer": "Groomer"
+    },
+    "pendapatan/pengeluaran": {
+      "title": "Pendapatan/Pengeluaran",
+      "jenis-transaksi": "Jenis Transaksi"
+    },
+    "peralatan-operasional": {
+      "title": "Peralatan Operasional",
+      "peralatan": "Peralatan"
+    },
+    "akunting": {
+      "title": "Akunting",
+      "bagan-akun": {
+        "title": "Bagan Akun",
+        "tipe": "Tipe",
+        "grup": "Grup",
+        "sub-grup": "Sub Grup",
+        "bagan-akun": "Bagan Akun",
+        "sub-ledger": "Sub Buku Besar",
+        "jurnal-otomatis": "Jurnal Otomatis"
+      }
+    },
+    "aset-tetap": {
+      "title": "Aset Tetap",
+      "aset-tetap": "Aset Tetap",
+      "grup": "Grup"
+    },
+    "sumber-daya-manusia": {
+      "title": "Sumber Daya Manusia",
+      "jenis-izin": "Jenis Izin"
+    }
+  },
+  "katalog": {
+    "title": "Katalog",
+    "produk": "Produk",
+    "paket": "Paket"
+  },
+  "pemasaran": {
+    "title": "Pemasaran",
+    "vocer": "Vocer"
+  },
+  "persediaan-barang": {
+    "title": "Persediaan Barang",
+    "penyesuaian": {
+      "title": "Penyesuaian",
+      "masuk": "Masuk",
+      "keluar": "Keluar"
+    },
+    "transfer": "Transfer"
+  },
+  "pembelian": {
+    "title": "Pembelian",
+    "pesanan": "Pesanan",
+    "penerimaan": "Penerimaan",
+    "faktur": "Faktur",
+    "faktur-langsung": "Faktur Langsung",
+    "pengembalian": "Pengembalian",
+    "deposit": "Deposit",
+    "pembayaran": "Pembayaran"
+  },
+  "pembelian-konsinyasi": {
+    "title": "Pembelian Konsinyasi",
+    "pesanan": "Pesanan",
+    "penerimaan": "Penerimaan",
+    "faktur": "Faktur",
+    "pengembalian": "Pengembalian",
+    "deposit": "Deposit",
+    "pembayaran": "Pembayaran"
+  },
+  "penjualan": {
+    "title": "Penjualan",
+    "pesanan": "Pesanan",
+    "pengiriman": "Pengiriman",
+    "faktur": "Faktur",
+    "faktur-langsung": "Faktur Langsung",
+    "pengembalian": "Pengembalian",
+    "deposit": "Deposit",
+    "pembayaran": "Pembayaran",
+    "kontrak": "Kontrak"
+  },
+  "penjualan-kasir": {
+    "title": "Penjualan Kasir",
+    "kasir": "Kasir",
+    "penjualan": "Penjualan",
+    "pembatalan": "Pembatalan",
+    "pengambilan-kas": "Pengambilan Kas",
+    "kas": {
+      "title": "Kas",
+      "masuk": "Masuk",
+      "keluar": "Keluar"
+    }
+  },
+  "perawatan-hewan": {
+    "title": "Perawatan Hewan",
+    "faktur": "Faktur",
+    "pembayaran": "Pembayaran",
+    "isi-ulang": "Isi Ulang",
+    "pengembalian-dana": "Pengembalian Dana",
+    "permintaan-pelanggan": "Permintaan Pelanggan",
+    "keluhan-pelanggan": "Keluhan Pelanggan"
+  },
+  "biaya-operasional": {
+    "title": "Biaya Operasional",
+    "biaya-operasional": "Biaya Operasional",
+    "pengembalian": "Pengembalian",
+    "pembayaran": "Pembayaran",
+    "klaim-operasional": "Klaim Operasional",
+    "kerusakan-alat": "Kerusakan Alat"
+  },
+  "pendapatan/pengeluaran": {
+    "title": "Pendapatan/Pengeluaran",
+    "pendapatan": "Pendapatan",
+    "pengeluaran": "Pengeluaran"
+  },
+  "akunting": {
+    "title": "Akunting",
+    "tunai-bank": "Tunai & Bank",
+    "memo": "Memo",
+    "penundaan": "Penundaan",
+    "berulang": "Berulang",
+    "kasbon": "Kasbon"
+  },
+  "aset-tetap": {
+    "title": "Aset Tetap",
+    "faktur": "Faktur",
+    "pembayaran": "Pembayaran",
+    "penyesuaian": {
+      "title": "Penyesuaian",
+      "masuk": "Masuk",
+      "keluar": "Keluar"
+    }
+  },
+  "sumber-daya-manusia": {
+    "title": "Sumber Daya Manusia",
+    "izin": "Izin",
+    "absensi": "Absensi"
+  }
+}
